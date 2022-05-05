@@ -1,8 +1,11 @@
-*{
-    
-}
+
 header{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-shadow: 30;
+    
+}
+
+.p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
